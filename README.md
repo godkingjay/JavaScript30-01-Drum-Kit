@@ -25,7 +25,7 @@ Build an interactive Drum Kit:
 
 ### Links
 
-- Live Site: ---> [LINK]()
+- Live Site: ---> [LINK](https://godkingjay.github.io/JavaScript30-01-Drum-Kit/)
 
 ## My process
 
